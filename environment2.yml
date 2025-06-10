@@ -1,0 +1,14 @@
+name: datascience_course_cemfi
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.9
+  - jupyter
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pytorch
+  - xlrd

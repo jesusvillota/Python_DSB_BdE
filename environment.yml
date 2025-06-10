@@ -1,0 +1,11 @@
+name: datascience_course_cemfi
+dependencies:
+  - python
+  - jupyter
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pytorch
+  - xlrd
