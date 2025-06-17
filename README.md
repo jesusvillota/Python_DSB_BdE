@@ -37,6 +37,21 @@ The course is organized into the following modules:
 7. **Basic Data Visualization**
 8. **Practical Exercises and Case Studies**
 
+## Project Structure
+
+```
+├── data/                           # Course datasets
+│   ├── death-rate-who.csv         # WHO mortality data
+│   ├── gdp-per-capita-worldbank.csv # World Bank GDP data
+│   └── population-unwpp.csv        # UN population data
+├── notebooks/                      # Jupyter notebooks for each session
+│   ├── session1.ipynb             # Introduction and basics
+│   └── session2.ipynb             # Data analysis fundamentals
+├── environment.yml                 # Python environment configuration
+├── installation_notes.pdf         # Setup instructions
+└── README.md                      # This file
+```
+
 #### Prerequisites
 
 No prior programming experience is required. All you need is a laptop with Python installed (instructions will be provided in the first session).
@@ -49,8 +64,4 @@ No prior programming experience is required. All you need is a laptop with Pytho
 
 #### Support
 
-If you have any questions or need help setting up your environment, please reach out to the course instructor or teaching assistants.
-
----
-
-We look forward to helping you take your first steps in programming and preparing you for the data-driven challenges of modern banking supervision!
+If you have any questions or need help setting up your environment, please send me and [email](jesus.villota@cemfi.edu.es)
