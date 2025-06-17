@@ -1,14 +1,12 @@
-# Python Programming for Banking Supervision  
+# Introduction to Python Programming
 
-**Diploma de Supervisión Bancaria – CEMFI**  
+**Diploma in Banking Supervision**
 
-**Bank of Spain**
+**Banco de España - CEMFI**
 
 **Teacher: Jesús Villota Miranda (PhD Student in Economics, CEMFI)**
 
-### README: Introduction to Python Programming for Banking Supervisors
-
-Welcome to the **Introduction to Python Programming** course, part of the "Diploma de Supervisión Bancaria" at CEMFI. This course is designed specifically for incoming banking supervisors at the Bank of Spain. It is embedded within the broader "Programming" subject and serves as a foundation for your upcoming Data Science course with Joel Marbet.
+Welcome to the **Introduction to Python Programming** course, part of the "Diploma de Supervisión Bancaria" at CEMFI. This course is designed specifically for incoming banking supervisors at the Bank of Spain. It is embedded within the "Programming" subject and serves as a foundation for your upcoming Data Science course with Joel Marbet.
 
 #### Course Objective
 
