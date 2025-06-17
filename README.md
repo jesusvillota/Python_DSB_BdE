@@ -1,6 +1,7 @@
 # Python Programming for Banking Supervision  
 **Diploma de Supervisión Bancaria – CEMFI**  
 **Bank of Spain**
+**Teacher: Jesús Villota Miranda (PhD Student in Economics, CEMFI)**
 
 ### README: Introduction to Python Programming for Banking Supervisors
 
@@ -9,10 +10,6 @@ Welcome to the **Introduction to Python Programming** course, part of the "Diplo
 #### Course Objective
 
 The main goal of this course is to provide you with a practical introduction to programming using Python. By the end of the course, you will be comfortable with the basics of Python and ready to tackle more advanced data science topics.
-
-#### Who is this course for?
-
-This course is tailored for banking supervisors with little or no prior programming experience. All examples and exercises are designed with your professional context in mind, focusing on practical applications relevant to banking supervision.
 
 #### What will you learn?
 
@@ -27,15 +24,29 @@ You will learn:
 
 #### Course Structure
 
-The course is organized into the following modules:
-1. **Introduction to Python and Programming Concepts**
-2. **Data Types, Variables, and Operators**
-3. **Control Flow: Conditionals and Loops**
-4. **Functions and Modules**
-5. **Working with Data Files**
-6. **Introduction to Data Analysis with pandas**
-7. **Basic Data Visualization**
-8. **Practical Exercises and Case Studies**
+The course is organized into **two intensive sessions**:
+
+### **Session 1: Python Fundamentals**
+1. **Overview of setup and installation**
+2. **Jupyter Notebooks**
+3. **Preliminaries**
+4. **Basics of Python syntax**
+5. **Introduction to `NumPy`**
+
+### **Session 2: Data Analysis and Visualization**
+6. **Introduction to `pandas`**
+7. **Visualization: `matplotlib` and `seaborn`**
+
+
+#### Prerequisites
+
+No prior programming experience is required. All you need is a laptop with Python and Anaconda installed (instructions will be provided in the first session).
+
+#### Getting Started
+
+1. **Install Python**: Download and install the latest version of Python from [python.org](https://www.python.org/).
+2. **Set up your environment**: We recommend using [Anaconda](https://www.anaconda.com/products/distribution) or [Jupyter Notebook](https://jupyter.org/) for an interactive coding experience. Follow the installation instructions provided in the `installation_notes.pdf` file included in this repository.
+3. **Download course materials**: Clone this repository or download the ZIP file to access the course materials, including datasets and Jupyter notebooks.
 
 ## Project Structure
 
@@ -52,16 +63,6 @@ The course is organized into the following modules:
 └── README.md                      # This file
 ```
 
-#### Prerequisites
-
-No prior programming experience is required. All you need is a laptop with Python installed (instructions will be provided in the first session).
-
-#### Getting Started
-
-1. **Install Python**: Download and install the latest version of Python from [python.org](https://www.python.org/).
-2. **Set up your environment**: We recommend using [Anaconda](https://www.anaconda.com/products/distribution) or [Jupyter Notebook](https://jupyter.org/) for an interactive coding experience.
-3. **Download course materials**: All course materials, including lecture notes and exercises, will be provided via the CEMFI learning platform.
-
 #### Support
 
-If you have any questions or need help setting up your environment, please send me and [email](jesus.villota@cemfi.edu.es)
+If you have any questions or need help setting up your environment, please send me and [email](mailto:jesus.villota@cemfi.edu.es).
