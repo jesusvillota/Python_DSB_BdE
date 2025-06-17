@@ -1,6 +1,9 @@
 # Python Programming for Banking Supervision  
+
 **Diploma de Supervisión Bancaria – CEMFI**  
+
 **Bank of Spain**
+
 **Teacher: Jesús Villota Miranda (PhD Student in Economics, CEMFI)**
 
 ### README: Introduction to Python Programming for Banking Supervisors
@@ -26,14 +29,14 @@ You will learn:
 
 The course is organized into **two intensive sessions**:
 
-### **Session 1: Python Fundamentals**
+##### **Session 1: Python Fundamentals**
 1. **Overview of setup and installation**
 2. **Jupyter Notebooks**
 3. **Preliminaries**
 4. **Basics of Python syntax**
 5. **Introduction to `NumPy`**
 
-### **Session 2: Data Analysis and Visualization**
+##### **Session 2: Data Analysis and Visualization**
 6. **Introduction to `pandas`**
 7. **Visualization: `matplotlib` and `seaborn`**
 
@@ -45,7 +48,7 @@ No prior programming experience is required. All you need is a laptop with Pytho
 #### Getting Started
 
 1. **Install Python**: Download and install the latest version of Python from [python.org](https://www.python.org/).
-2. **Set up your environment**: We recommend using [Anaconda](https://www.anaconda.com/products/distribution) or [Jupyter Notebook](https://jupyter.org/) for an interactive coding experience. Follow the installation instructions provided in the `installation_notes.pdf` file included in this repository.
+2. **Set up your environment**: We recommend using [Anaconda](https://www.anaconda.com/products/distribution) along with the `environment.yml` file provided in this repository to create a consistent development environment. Follow the installation instructions provided in the `installation_notes.pdf` file included in this repository.
 3. **Download course materials**: Clone this repository or download the ZIP file to access the course materials, including datasets and Jupyter notebooks.
 
 ## Project Structure
